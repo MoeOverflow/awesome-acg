@@ -16,7 +16,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [Image Reverse Search](#image-reverse-search)
 - [Mobile Apps](#mobile-apps)
 - [Programming Languages](#programming-languages)
-- [Subtitiles](#subtitles)
+- [Subtitles](#subtitles)
 - [Tools](#tools)
 - [Web](#web)
 - [Uncategorized](#uncategorized)
@@ -41,10 +41,16 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 
 - [Albireo](https://github.com/lordfriend/Albireo) - Bangumi auto download and management project. It has a webclient called [Deneb](https://github.com/lordfriend/Deneb).
 - [anilist-crawler](https://github.com/soruly/anilist-crawler) - Crawl data from anilist API and store in elasticsearch.
+- [CeJS](https://github.com/kanasimi/work_crawler) - Online novels / comics downloader.
+- [Comic-DL](https://github.com/Xonshiz/comic-dl) - Command line tool to download manga and comics from various comic and manga sites.
 - [Danbooru Downloader](https://github.com/Nandaka/DanbooruDownloader) - Downloader for [Danbooru](https://danbooru.donmai.us/).
 - [DMHY](https://github.com/yaqinking/DMHY) - Easily download/auto-download torrent(s) from share.dmhy.org / acg.rip etc. sites for OS X.
 - [E-Hentai-Downloader](https://github.com/ccloli/E-Hentai-Downloader) - Download E-Hentai archive as zip file.
+- [gallery-dl](https://github.com/mikf/gallery-dl) - Command-line program to download image-galleries and -collections from several image hosting sites.
+- [getComic](https://github.com/abcfy2/getComic) - Download tencent comic-下载腾讯漫画.
+- [imgbrd-grabber](https://github.com/Bionus/imgbrd-grabber) - Very customizable imageboard/booru downloader with powerful filenaming features.
 - [JComicDownloader](https://github.com/abc9070410/JComicDownloader) - Tool for downloading some comics and light novels from China.
+- [MangaRipper](https://github.com/NguyenDanPhuong/MangaRipper) - Download manga (Japanese Comic) from several websites for your offline viewing.
 - [OkanimeDownloader](https://github.com/MoHD20/OkanimeDownloader) - Scrape Arabic translated anime from [Okanime](http://okanime.com/) without any effort.
 - [PixivUtil (Pixiv Downloader)](https://github.com/Nandaka/PixivUtil2) - Downloader and tag manager for [Pixiv](https://www.pixiv.net/).
 - [Pixiv Illust](https://github.com/HakurouKen/pixiv-illust/) - Both a downloader and a third-party Node.js api for [Pixiv](https://www.pixiv.net/). 
@@ -62,6 +68,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [E-HentaiCrawler](https://github.com/shuiqukeyou/E-HentaiCrawler) - E-Heitai Crawler (Chinese).
 - [一言（ヒトコト）](http://hitokoto.cn) - Get random quotes from ACG.
 - [hummingbird.me](https://github.com/hummingbird-me) - Anime discovery platform.
+- [Jikan API](https://jikan.moe) - Unofficial API for [MyAnimeList](https://myanimelist.net/).
 - [nyaa](https://github.com/nyaadevs/nyaa) - The software behind Nyaa.si.
 - [NyaaPantsu](https://github.com/NyaaPantsu/nyaa) - Nyaa.se replacement written in golang.
 - [pixivpy](https://github.com/upbit/pixivpy) - Pixiv API for Python.
@@ -71,34 +78,45 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 ## Image Board
 
 - [aint.moe](https://github.com/maxpowa/aint.moe) - Your waifu aint moe.
-- [animeshot](https://github.com/bitinn/animeshot) - Open and searchable image repository in Node.js.
+- [animeshot2](https://github.com/bitinn/animeshot2) - An open and searchable image repository with telegram bot integration in Node.js.
 - [atogatari](https://github.com/kingdido999/atogatari) - Share and discover your favorite anime characters.
 - [BooruSurfer2](https://github.com/spillerrec/BooruSurfer2) - Consistent and space-efficient interface to Booru-like image boards.
 - [danbooru](https://github.com/r888888888/danbooru) - Taggable image board written in Rails 4 for [danbooru.donmai.us](https://danbooru.donmai.us/).
+- [Hydron](https://github.com/bakape/hydron) - Media tagger and organizer backend and GUI frontend.
+- [Hydrus](https://github.com/hydrusnetwork/hydrus) - A personal booru-style media tagger that can import files and tags from your hard drive and popular websites.
 - [Moebooru](https://github.com/moebooru/moebooru) - Fork of danbooru1 that has been heavily modified. Used on [yande.re](https://yande.re/) , [Konachan.com](https://konachan.com/).
+- [PBooru](https://github.com/Kycklingar/PBooru) - Permanent Booru is an image board web server which takes leverage of the decentralization of IPFS to distribute its content.
 - [szurubooru](https://github.com/rr-/szurubooru) - Python-powered booru for small to medium communities.
 - [TagsTable](https://github.com/zcyzcy88/TagsTable) - Chinese ⇔ Engish translation table for common booru tags.
 
 ## Image Processing
 
+- [animate-me](https://github.com/Aneureka/animate-me) - A miniapp to convert selfie to anime.
+- [Anime4K](https://github.com/bloc97/Anime4K) - A High-Quality Real Time Anime Upscaler.
 - [animeloop-cli](https://github.com/moeoverflow/animeloop-cli) - Automatically detect and cut anime loops.
+- [AniSeg](https://github.com/jerryli27/AniSeg) - A faster-rcnn model for anime character segmentation.
 - [cgCompress](https://github.com/spillerrec/cgCompress) - Compression tool tailored for Visual Novel CGs.
 - [chainer-DCGAN](https://github.com/mattya/chainer-DCGAN) - Generate anime face with neural network.
+- [crypko.ai](https://crypko.ai) - Cryptocollectible game on anime character icons.
 - [DeepAA](https://github.com/OsciiArt/DeepAA) - Make Ascii Arts by Deep Learning.
-- [DeepMindBreak](https://github.com/deeppomf/DeepMindBreak) - Decensoring hentai with deep neural networks.
+- [DeepCreamPy](https://github.com/deeppomf/DeepCreamPy) - Decensoring hentai with deep neural networks.
 - [girl_friend_factory](https://hiroshiba.github.io/girl_friend_factory) - Anime character generator (Description on [Qiita](http://qiita.com/Hiroshiba/items/d5749d8896613e6f0b48)).
 - [hoshizora](https://github.com/BlueCocoa/hoshizora) - Merge two image by alpha channel to get displayed respectively on white/black background.
 - [make.girls.moe](http://make.girls.moe) - Create Anime Characters with A.I.
+- [MangaCraft](https://github.com/lllyasviel/MangaCraft) - Semi-automatic manga colorization.
 - [mangaEditor](http://moeka.me/mangaEditor/) - Edit manga and translate it online.
 - [Overmix](https://github.com/spillerrec/Overmix) - Automatic anime screenshot stitching in high quality.
 - [PaintsChainer](https://github.com/pfnet/PaintsChainer) - Line drawing colorization using chainer.
+- [sketchKeras](https://github.com/lllyasviel/sketchKeras) - An u-net with some algorithm to take sketch from paints.
 - [style2paints](https://github.com/lllyasviel/style2paints) - Paint line images with AI.
+- [TwinGAN](https://github.com/jerryli27/TwinGAN) - Unsupervised Image Translation for Human Portraits to anime.
 - [waifu2x](https://github.com/nagadomi/waifu2x) - Image Super-Resolution for Anime-Style Art.
 - [waifu2x-converter-cpp](https://github.com/tanakamura/waifu2x-converter-cpp) - Improved version of waifu2x.
 
 ## Image Recognition
 
 - [alt-i2v](https://github.com/GINK03/alt-i2v) - Alternative illustration2vec implitation of sigmoids of fully connected layer.
+- [animeface-2009](https://github.com/nagadomi/animeface-2009) - Face and Landmark Detector for Anime/Manga. Similar to lbpcascade_animeface but more accurate.
 - [AnimeFace Search v3](http://animeface3.libotama.so/) - Face detection for Anime. Powered by [Imager::AnimeFace](http://anime.udp.jp/imager-animeface.html) and [otama - CBIR Engine](https://github.com/nagadomi/otama).
 - [Illustration2Vec](https://github.com/rezoo/illustration2vec) - Semantic Vector Representation of Illustrations.
 - [lbpcascade_animeface](https://github.com/nagadomi/lbpcascade_animeface) - Face detector for anime/manga using OpenCV.
@@ -114,7 +132,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [iqdb](https://iqdb.org/) - Multi-service image search engine, source code [here](https://iqdb.org/code/).
 - [SauceNAO](https://saucenao.com/) - Reverse image search service, see database coverage [here](https://saucenao.com/status.html).
 - [saucenao.kgmi.moe](http://saucenao.kgmi.moe/) - Better front-end for SauceNAO.
-- [WAIT: What Anime Is This?](https://github.com/soruly/whatanime.ga) - Anime scene search engine. Powered by [liresolr](https://github.com/dermotte/liresolr).
+- [WAIT: What Anime Is This?](https://github.com/soruly/trace.moe) - Anime scene search engine. Powered by [liresolr](https://github.com/dermotte/liresolr).
 
 ## Mobile Apps
 
@@ -128,6 +146,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 ## Programming Languages
 *These are mostly languages based on [Brainfuck](https://ja.wikipedia.org/wiki/Brainfuck).*
 
+- [aaencoder](https://github.com/mervick/php-aaencoder) - Convert Javascript to kaomoji(顔文字).
 - [gochiusa_lang](https://github.com/dolciss/gochiusa_lang)
 - [hhiro_lang](https://github.com/zonuexe/hhiro_lang)
 - [kemono_friends_lang](https://github.com/consomme/kemono_friends_lang)
@@ -149,11 +168,13 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [arc_unpacker](https://github.com/vn-tools/arc_unpacker) - Visual novel extracting tool in CLI.
 - [bgm](https://github.com/egoist/bgm) - Display bangumi list in CLI.
 - [Comicbook](https://github.com/moeoverflow/comicbook) - Convert online comics to .epub e-book.
+- [getnative](https://github.com/Infiziert90/getnative) - Find the native resolution(s) of upscaled material (mostly anime).
 - [kuroshiro.js](https://github.com/hexenq/kuroshiro.js) - Japanese language utility mainly for converting Kanji-mixed sentence to Hiragana, Katakana or Romaji with furigana and okurigana modes supported.
 - [OpenCC](https://github.com/BYVoid/OpenCC) - Project for conversion between Traditional and Simplified Chinese.
 - [rankit.ikely.me](http://rankit.ikely.me/) - Scientific ranking of anime ratings by [Rankit](https://github.com/wattlebird/ranking).
 - [Taiga](https://github.com/erengy/taiga) - Lightweight anime tracker for Windows.
 - [wikipedia_anime_graph](https://github.com/Project-ShangriLa/wikipedia_anime_graph) - wikipediaからアニメに関連するデータを解析する
+- [Shoko](https://github.com/shokoanime) - Anime Collection Manager
 
 ## Web
 
